@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcatoo)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcatoo&count_private=true)
+[![Anurag's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=wcatoo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's Private GitHub stats](https://github-readme-stats.vercel.app/api?username=wcatoo&count_private=true) -->
 
 
 <!-- - 👋 Hi, I’m @wcatoo
